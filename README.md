@@ -54,5 +54,13 @@ their ongoing business. Overall, this improves the e-commerce business by helpin
 Jupyter Notebook <br>
 Python Libraries <br>
 - Pandas and NumPy (EDA, Data cleaning and preprocessing)
-- Matplotlib and seaborn (Visualization)
+- Matplotlib and seaborn (Visualization
+
+## Conclcusion
+Data Analytics report helped to understand the sales and overall performance Ecommerce of 2019 to 2025 accross various states in India.<br>
+The Cleaned dataset is very useful to later perfomance such as to store into database using SQL for data efficent storage and retraivel, <br>
+PowerBI dashboard creations to the effective report presentations, Advanced Statistical Analysis to understand real truth of ecommercrelationship between <br>
+columns and values Machine Learning to predict the
+future of the Ecommerce from this 
+records and history.
            

@@ -54,4 +54,5 @@ their ongoing business. Overall, this improves the e-commerce business by helpin
 Python Libraries <br>
 - Pandas and NumPy (EDA, Data cleaning and preprocessing)
 - Matplotlib and seaborn (Visualization)
+- Jupyter Notebook
            

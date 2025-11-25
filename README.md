@@ -28,11 +28,11 @@ delivered sales records. Three new columns were added for improved analytics and
 - Customer_rating (derived from Customer_feedback).
 These additions support better reporting, segmentation, and analysis. Some column names were renamed to improve readability.<br>
 To ensure data consistency, all column data types were corrected to their appropriate types. Several data quality issues such as special characters,<br>
-spelling mistakes, inconsistent entries, typos, incorrect data types, and invalid values were efficiently addressed.<br>                                            Missing, NaN, and null values were handled using suitable techniques:
-- Median imputation for skewed numerical data with outliers,
-- Mean imputation for normally distributed numerical data without outliers,
-- Mode imputation for categorical columns,
-- Forward-fill for date-related columns,
-- Logical imputation where context-based correction was required.
+spelling mistakes, inconsistent entries, typos, incorrect data types, and invalid values were efficiently addressed.<br>                                          Missing, NaN, and null values were handled using suitable techniques:
+-  Median imputation for skewed numerical data with outliers,
+-  Mean imputation for normally distributed numerical data without outliers,
+-  Mode imputation for categorical columns,
+-  Forward-fill for date-related columns,
+-  Logical imputation where context-based correction was required.
            
            

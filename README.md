@@ -30,10 +30,10 @@ Three new columns were added for improved analytics and visualization:<br>
 These additions support better reporting, segmentation, and analysis. Some column names were renamed to improve readability.<br>
 To ensure data consistency, all column data types were corrected to their appropriate types. Several data quality issues such as <br>
 special characters, spelling mistakes, inconsistent entries, typos, incorrect data types, and invalid values were efficiently addressed.<br>                     Missing, NaN, and null values were handled using suitable techniques:
--  Median imputation for skewed numerical data with outliers,
--  Mean imputation for normally distributed numerical data without outliers,
--  Mode imputation for categorical columns,
--  Forward-fill for date-related columns,
+-  Median imputation for skewed numerical data with outliers.
+-  Mean imputation for normally distributed numerical data without outliers.
+-  Mode imputation for categorical columns.
+-  Forward-fill for date-related columns.
 -  Logical imputation where context-based correction was required.
 
 The cleaned E-Commerce and Sales dataset contains 38,176 rows and 27 columns (Data types: float64 (10), int64 (5), object (12)).
@@ -56,9 +56,11 @@ their ongoing business. Overall, this improves the e-commerce business by helpin
 Pandas and NumPy — used for Exploratory Data Analysis (EDA), data cleaning, and preprocessing <br>
 Matplotlib and Seaborn — used for data visualization
 ## Project Structure
-- Uncleaned Dataset (CSV): Raw dataset before data cleaning and preprocessing
+- Uncleaned Dataset (ZIP): Raw dataset before data cleaning and preprocessing.
+- Link to Google drive CSV file of uncleaned dataset.
 - Jupyter Notebook: EDA & Data Preprocessing, includes exploratory data analysis, handling missing values, encoding, scaling, and preprocessing steps.
-- Cleaned Dataset (CSV): Final dataset after data cleaning and preprocessing.
+- Cleaned Dataset (ZIP): Final dataset after data cleaning and preprocessing.
+- Link to Google drive CSV file of cleaned datasset.
 - Jupyter Notebook: Data Visualization, contains visual analytics, charts, and insights derived from the cleaned dataset.
 - MS Word Report: A quick summary comparing the cleaned and uncleaned datasets, including key findings and improvements.
 ## Conclusion
@@ -66,9 +68,9 @@ This data analytics report provides clear insights into the sales trends and ove
 across various states in India. The data cleaning and analysis process transformed raw, unstructured information into meaningful insights<br> 
 that support better decision-making and help drive future business growth.<br>
 The final cleaned dataset is now structured, consistent, and reliable for further analysis.<br>
-- Database storage using SQL for efficient data management and retrieval
-- Power BI dashboard creation for professional visual reporting
-- Advanced statistical analysis to uncover hidden patterns and understand relationships between variables
-- Machine learning model development to forecast future sales trends based on six years of historical data
+- Database storage using SQL for efficient data management and retrieval.
+- Power BI dashboard creation for professional visual reporting.
+- Advanced statistical analysis to uncover hidden patterns and understand relationships between variables.
+- Machine learning model development to forecast future sales trends based on six years of historical data.
 
 

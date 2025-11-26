@@ -50,11 +50,11 @@ Extracting useful insights and transforming raw data into visual charts to creat
 in making better e-commerce decisions because visualization clearly highlights key insights, supports informed choices and <br>
 assists in planning future goals. It also makes presentations easier and allows non-technical stakeholders to understand <br>
 their ongoing business. Overall, this improves the e-commerce business by helping teams make the right decisions.<br>
-## Tools 
-Jupyter Notebook <br>
-Python Libraries <br>
-- Pandas and NumPy (EDA, Data cleaning and preprocessing)
-- Matplotlib and seaborn (Visualization
+## Tools
+Jupyter Notebook<br>
+Python Libraries:<br>
+Pandas and NumPy — used for Exploratory Data Analysis (EDA), data cleaning, and preprocessing <br>
+Matplotlib and Seaborn — used for data visualization
 ## Conclusion
 This data analytics report provides clear insights into the sales trends and overall performance of the e-commerce business from 2019 to 2025<br>
 across various states in India. The data cleaning and analysis process transformed raw, unstructured information into meaningful insights<br> 

@@ -57,10 +57,8 @@ Pandas and NumPy — used for Exploratory Data Analysis (EDA), data cleaning, an
 Matplotlib and Seaborn — used for data visualization
 ## Project Structure
 - Uncleaned Dataset (ZIP): Raw dataset before data cleaning and preprocessing.
-- Link to Google drive CSV file of uncleaned dataset.
 - Jupyter Notebook: EDA & Data Preprocessing, includes exploratory data analysis, handling missing values, encoding, scaling, and preprocessing steps.
 - Cleaned Dataset (ZIP): Final dataset after data cleaning and preprocessing.
-- Link to Google drive CSV file of cleaned datasset.
 - Jupyter Notebook: Data Visualization, contains visual analytics, charts, and insights derived from the cleaned dataset.
 - MS Word Report: A quick summary comparing the cleaned and uncleaned datasets, including key findings and improvements.
 ## Conclusion

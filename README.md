@@ -56,7 +56,7 @@ Python Libraries <br>
 - Pandas and NumPy (EDA, Data cleaning and preprocessing)
 - Matplotlib and seaborn (Visualization
 ## Conclusion
-This data analytics report provides clear insights into the sales trends and overall performance of the e-commerce business from 2019 to 2025 across <br>
+This data analytics report provides clear insights into the sales trends and overall performance of the e-commerce business from 2019 to 2025 across<br>
 various states in India. The data cleaning and analysis process transformed raw, unstructured information into meaningful insights that support<br>
 better decision-making and help drive future business growth. The final cleaned dataset is now structured, consistent, and reliable for further analysis.<br>
 - Database storage using SQL for efficient data management and retrieval

@@ -55,6 +55,12 @@ their ongoing business. Overall, this improves the e-commerce business by helpin
 - 2 Python Libraries:<br>
 Pandas and NumPy — used for Exploratory Data Analysis (EDA), data cleaning, and preprocessing <br>
 Matplotlib and Seaborn — used for data visualization
+## Project Structure
+- Uncleaned Dataset (CSV): Raw dataset before data cleaning and preprocessing
+- Jupyter Notebook: EDA & Data Preprocessing, includes exploratory data analysis, handling missing values, encoding, scaling, and preprocessing steps.
+- Cleaned Dataset (CSV): Final dataset after data cleaning and preprocessing.
+- Jupyter Notebook: Data Visualization, contains visual analytics, charts, and insights derived from the cleaned dataset.
+- MS Word Report: A quick summary comparing the cleaned and uncleaned datasets, including key findings and improvements.
 ## Conclusion
 This data analytics report provides clear insights into the sales trends and overall performance of the e-commerce business from 2019 to 2025<br>
 across various states in India. The data cleaning and analysis process transformed raw, unstructured information into meaningful insights<br> 

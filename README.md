@@ -51,8 +51,8 @@ in making better e-commerce decisions because visualization clearly highlights k
 assists in planning future goals. It also makes presentations easier and allows non-technical stakeholders to understand <br>
 their ongoing business. Overall, this improves the e-commerce business by helping teams make the right decisions.<br>
 ## Tools
-Jupyter Notebook<br>
-Python Libraries:<br>
+- 1 Jupyter Notebook<br>
+- 2 Python Libraries:<br>
 Pandas and NumPy — used for Exploratory Data Analysis (EDA), data cleaning, and preprocessing <br>
 Matplotlib and Seaborn — used for data visualization
 ## Conclusion

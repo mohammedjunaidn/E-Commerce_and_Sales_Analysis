@@ -86,7 +86,7 @@ Table names:<br>
 ## Conclusion
 This data analytics report provides clear insights into the sales trends and overall performance of the e-commerce business from 2019 to 2025<br>
 across various states in India. The data cleaning and analysis process transformed raw, unstructured information into meaningful insights<br> 
-that support better decision-making and help drive future business growth.The final cleaned dataset is now structured, consistent, and reliable for<br>
-future forecasting using machine learning to predict business outcomes
+that support better decision-making and help drive future business growth.The final cleaned dataset is now structured, consistent, and reliable<br> 
+for future forecasting using machine learning to predict business outcomes
 
 

@@ -61,10 +61,10 @@ Libraries Used:<br>
 - SciPy
 - Matplotlib
 - Seaborn <br>
-The dataset has been organized into three separate tables, linked using the common column Customer_id, to enable structured data storage and<br>
-efficient retrieval. Some column names have been modified to improve readability. This organization enhances data management, simplifies <br> 
-SQL-based queries, and supports efficient data storage and retrieval in the database. It also helps address business-related problems using <br>
-SQL queries and enables more effective analysis for predictive modeling and forecasting.<br>
+The dataset has been organized into three separate tables, linked using the common column Customer_id, to enable structured data storage
+and efficient retrieval. Some column names have been modified to improve readability. This organization enhances data management,<br>
+simplifies SQL-based queries, and supports efficient data storage and retrieval in the database. It also helps address business-related problems<br>
+using SQL queries and enables more effective analysis for predictive modeling and forecasting.<br>
 Table names:<br>
 - customer_details
 - product_details 

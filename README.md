@@ -38,6 +38,7 @@ Missing, NaN, and null values were handled using suitable techniques:
 -  Mode imputation for categorical columns.
 -  Forward-fill for date-related columns.
 -  Logical imputation where context-based correction was required.
+
 Exploratory Data Analysis (EDA) and data cleaning were conducted using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn,<br>
 as well as the Power Query tool in Excel. The same uncleaned CSV file was uploaded into both Jupyter Notebook (within VS Code) and <br>
 Power Query in Excel. Both tools effectively supported the EDA and data-cleaning process.<br>

@@ -20,7 +20,7 @@ The dataset exhibits several data quality issues, including missing values (NaN 
 spelling mistakes, inconsistent entries, typos, duplicate records in unique columns, incorrect data types, and invalid values.<br>
 Key columns are: Product_subCategory,  Product_marketingPrice, Quantity, CustomerFeedback, Delivered_date, DeliveryRegion,<br>
 DeliveryState, Sales, Cost, Revenue and Profit.
-## EDA, Data cleaning and Preprocessing
+## EDA, Data Cleaning and Preprocessing
 Duplicate records found in unique identifier columns were removed, which reduced the row count from 40,000 to 38,176.<br>
 One column, DeliveryStatus was dropped because the Kaggle dataset already represents delivered sales records.<br>
 Three new columns were added for improved analytics and visualization:<br>
@@ -50,7 +50,7 @@ their ongoing business. Overall, this improves the e-commerce business by helpin
 
 Data visualization was performed using Python libraries such as Matplotlib and Seaborn, as well as the BI tool Power BI for creating interactive<br>
 dashboards to enable better e-commerce and sales business performance analysis.<br>
-## Statistical Analysis and columns extraction
+## Statistical Analysis and Table Creation by Splitting Columns
 Conducted a comprehensive statistical analysis encompassing both descriptive and inferential statistics. The study provides an understanding<br>
 of statistical trends and the overall performance of the ongoing business. The analysis also offers insights into relationships between column <br>
 values and interactions across different columns, supporting improved machine learning performance for prediction and future value forecasting.<br>
@@ -69,6 +69,10 @@ Table names:<br>
 - customer_details
 - product_details 
 - delivery_and_sales_details
+## Relational Database Management
+SQL queries—including aggregate functions, GROUP BY, JOINs, WHERE, ORDER BY, and LIMIT clauses—were used to create a detailed report.<br>
+Nearly 34 business questions were answered using SQL queries, resulting in a comprehensive analysis of the six-year<br>
+e-commerce business’s overall performance.<br>
 ## Tools Used
 - 1 Jupyter Notebook (within VS Code): Used to create a clear and well-structured analytical report.
 - 2 Python Programming: Utilized libraries such as Pandas, NumPy, Matplotlib, Seaborn, SciPy, and Statsmodels for<br>
@@ -79,14 +83,18 @@ Table names:<br>
 - 6 MS Word: Used for quick report preparation and documentation.
 ## Project Structure
 - Uncleaned Dataset (ZIP): Raw dataset before data cleaning and preprocessing.
-- Jupyter Notebook: EDA & Data Preprocessing, includes exploratory data analysis, handling missing values, encoding, scaling, and preprocessing steps.
+- Jupyter Notebook (EDA): Exploratory Data Analysis, data cleaning, and preprocessing.
+- Excel: The Power Query tool was used to support data cleaning and transformation.
 - Cleaned Dataset (ZIP): Final dataset after data cleaning and preprocessing.
-- Jupyter Notebook: Data Visualization, contains visual analytics, charts, and insights derived from the cleaned dataset.
-- MS Word Report: A quick summary comparing the cleaned and uncleaned datasets, including key findings and improvements.
+- Jupyter Notebook (Data Visualization): Contains visual analytics, charts, and insights derived from the cleaned dataset.
+- Jupyter Notebook (Statistical Analysis): Statistical analysis and table creation by splitting columns.
+- Power BI Report: Dashboard creation for improved data visualization and presentation.
+- SQL Report: A detailed and in-depth report of the six-year e-commerce and sales business performance.
+- MS Word Report: A concise summary comparing the cleaned and uncleaned datasets, including key findings and improvements.
 ## Conclusion
 This data analytics report provides clear insights into the sales trends and overall performance of the e-commerce business from 2019 to 2025<br>
 across various states in India. The data cleaning and analysis process transformed raw, unstructured information into meaningful insights<br> 
 that support better decision-making and help drive future business growth.The final cleaned dataset is now structured, consistent, and reliable<br> 
-for future forecasting using machine learning to predict business outcomes
+for future forecasting using machine learning to predict business outcomes.
 
 

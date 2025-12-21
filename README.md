@@ -1,4 +1,4 @@
-# E-Commerce_and_Sales_report
+# E-Commerce_and_Sales_Report
 ## Introduction
 E-commerce delivered sales records from 2019 to 2025 across various states in India, for customers aged 15 to 61,<br>
 consisting of 40,000 rows and 25 columns of uncleaned and messy data.
